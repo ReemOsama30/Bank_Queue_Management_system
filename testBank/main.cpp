@@ -13,7 +13,7 @@ int main()
         return 1;
     }
 
-    cout << "Bank Management system!\n";
+    cout << "___________________________Bank Management system__________________________\n";
     bank b(3);
     int num;
     inputFile >> num; 
@@ -25,9 +25,12 @@ int main()
     }
     inputFile.close();
     b.assignCustomers();
-    cout << "_______________________________________" << endl;
-    b.printFinalReport(outputFile);
+    
 
+
+    //print the final report 
+    b.printFinalReport(outputFile);
+    b.printFinalReportToConsole();
    
 
 }

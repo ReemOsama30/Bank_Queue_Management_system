@@ -58,3 +58,174 @@ the teller 2 served 3
 the utilization rate is of the teller  2 is 33.3333%
 the teller 3 served 2
 the utilization rate is of the teller  3 is 22.2222%
+Customer ID  :  Arrival Time :  Waiting Time: Leaving Time: Served by Teller: 
+
+
+the average waiting time of the project is -nan(ind)
+the average serving time of the project is -nan(ind)
+the teller 1 served 0
+the utilization rate is of the teller  1 is -nan(ind)%
+the teller 2 served 0
+the utilization rate is of the teller  2 is -nan(ind)%
+the teller 3 served 0
+the utilization rate is of the teller  3 is -nan(ind)%
+Customer ID  :  Arrival Time :  Waiting Time: Leaving Time: Served by Teller: 
+1           :      35     :        0     :        97     :        1
+2           :      39     :        0     :        96     :        2
+3           :      78     :        0     :        202     :        3
+4           :      80     :        16     :        146     :        2
+5           :      82     :        15     :        152     :        1
+6           :      85     :        61     :        206     :        2
+7           :      88     :        64     :        202     :        1
+8           :      89     :        113     :        261     :        1
+9           :      95     :        107     :        265     :        3
+
+
+the average waiting time of the project is 41.7778
+the average serving time of the project is 64.4444
+the teller 1 served 4
+the utilization rate is of the teller  1 is 44.4444%
+the teller 2 served 3
+the utilization rate is of the teller  2 is 33.3333%
+the teller 3 served 2
+the utilization rate is of the teller  3 is 22.2222%
+Customer ID  :  Arrival Time :  Waiting Time: Leaving Time: Served by Teller: 
+1           :      35     :        0     :        97     :        1
+2           :      39     :        0     :        96     :        2
+3           :      78     :        0     :        202     :        3
+4           :      80     :        16     :        146     :        2
+5           :      82     :        15     :        152     :        1
+6           :      85     :        61     :        206     :        2
+7           :      88     :        64     :        202     :        1
+8           :      89     :        113     :        261     :        1
+9           :      95     :        107     :        265     :        3
+
+
+the average waiting time of the project is 41.7778
+the average serving time of the project is 64.4444
+the teller 1 served 4
+the utilization rate is of the teller  1 is 44.4444%
+the teller 2 served 3
+the utilization rate is of the teller  2 is 33.3333%
+the teller 3 served 2
+the utilization rate is of the teller  3 is 22.2222%
+Customer ID  :  Arrival Time :  Waiting Time: Leaving Time: Served by Teller: 
+1           :      35     :        0     :        97     :        1
+2           :      39     :        0     :        96     :        2
+3           :      78     :        0     :        202     :        3
+4           :      80     :        16     :        146     :        2
+5           :      82     :        15     :        152     :        1
+6           :      85     :        61     :        206     :        2
+7           :      88     :        64     :        202     :        1
+8           :      89     :        113     :        261     :        1
+9           :      95     :        107     :        265     :        3
+
+
+the average waiting time of the project is 41.7778
+the average serving time of the project is 64.4444
+the teller 1 served 4
+the utilization rate is of the teller  1 is 44.4444%
+the teller 2 served 3
+the utilization rate is of the teller  2 is 33.3333%
+the teller 3 served 2
+the utilization rate is of the teller  3 is 22.2222%
+Customer ID  :  Arrival Time :  Waiting Time: Leaving Time: Served by Teller: 
+1           :      35     :        0     :        97     :        1
+2           :      39     :        0     :        96     :        2
+3           :      78     :        0     :        202     :        3
+4           :      80     :        16     :        146     :        2
+5           :      82     :        15     :        152     :        1
+6           :      85     :        61     :        206     :        2
+7           :      88     :        64     :        202     :        1
+8           :      89     :        113     :        261     :        1
+9           :      95     :        107     :        265     :        3
+
+
+the average waiting time of the project is 41.7778
+the average serving time of the project is 64.4444
+the teller 1 served 4
+the utilization rate is of the teller  1 is 44.4444%
+the teller 2 served 3
+the utilization rate is of the teller  2 is 33.3333%
+the teller 3 served 2
+the utilization rate is of the teller  3 is 22.2222%
+Customer ID  :  Arrival Time :  Waiting Time: Leaving Time: Served by Teller: 
+1           :      35     :        0     :        97     :        1
+2           :      39     :        0     :        96     :        2
+3           :      78     :        0     :        202     :        3
+4           :      80     :        16     :        146     :        2
+5           :      82     :        15     :        152     :        1
+6           :      85     :        61     :        206     :        2
+7           :      88     :        64     :        202     :        1
+8           :      89     :        113     :        261     :        1
+9           :      95     :        107     :        265     :        3
+
+
+the average waiting time of the project is 41.7778
+the average serving time of the project is 64.4444
+the teller 1 served 4
+the utilization rate is of the teller  1 is 44.4444%
+the teller 2 served 3
+the utilization rate is of the teller  2 is 33.3333%
+the teller 3 served 2
+the utilization rate is of the teller  3 is 22.2222%
+Customer ID  :  Arrival Time :  Waiting Time: Leaving Time: Served by Teller: 
+1           :      35     :        0     :        97     :        1
+2           :      39     :        0     :        96     :        2
+3           :      78     :        0     :        202     :        3
+4           :      80     :        16     :        146     :        2
+5           :      82     :        15     :        152     :        1
+6           :      85     :        61     :        206     :        2
+7           :      88     :        64     :        202     :        1
+8           :      89     :        113     :        261     :        1
+9           :      95     :        107     :        265     :        3
+
+
+the average waiting time of the project is 41.7778
+the average serving time of the project is 64.4444
+the teller 1 served 4
+the utilization rate is of the teller  1 is 44.4444%
+the teller 2 served 3
+the utilization rate is of the teller  2 is 33.3333%
+the teller 3 served 2
+the utilization rate is of the teller  3 is 22.2222%
+Customer ID  :  Arrival Time :  Waiting Time: Leaving Time: Served by Teller: 
+1           :      35     :        0     :        97     :        1
+2           :      39     :        0     :        96     :        2
+3           :      78     :        0     :        202     :        3
+4           :      80     :        16     :        146     :        2
+5           :      82     :        15     :        152     :        1
+6           :      85     :        61     :        206     :        2
+7           :      88     :        64     :        202     :        1
+8           :      89     :        113     :        261     :        1
+9           :      95     :        107     :        265     :        3
+
+
+the average waiting time of the project is 41.7778
+the average serving time of the project is 64.4444
+the teller 1 served 4
+the utilization rate is of the teller  1 is 44.4444%
+the teller 2 served 3
+the utilization rate is of the teller  2 is 33.3333%
+the teller 3 served 2
+the utilization rate is of the teller  3 is 22.2222%
+Customer ID  :  Arrival Time :  Waiting Time: Leaving Time: Served by Teller: 
+1           :      35     :        0     :        97     :        1
+2           :      39     :        0     :        96     :        2
+3           :      78     :        0     :        202     :        3
+4           :      80     :        16     :        146     :        2
+5           :      82     :        15     :        152     :        1
+6           :      85     :        61     :        206     :        2
+7           :      88     :        64     :        202     :        1
+8           :      89     :        113     :        261     :        1
+9           :      95     :        107     :        265     :        3
+
+
+the average waiting time of the project is 41.7778
+the average serving time of the project is 64.4444
+the teller 1 served 4
+the utilization rate is of the teller  1 is 44.4444%
+the teller 2 served 3
+the utilization rate is of the teller  2 is 33.3333%
+the teller 3 served 2
+the utilization rate is of the teller  3 is 22.2222%
