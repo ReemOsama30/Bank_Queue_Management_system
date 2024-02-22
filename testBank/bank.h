@@ -53,9 +53,6 @@ public:
 }
     void assignCustomers() {
         //in the rush hours 
-        
-        //customersize = customerQueue.size();
-        //customerRecords.resize(customersize);
         if (customerQueue.size() > 20)
         {
             tellerList.push_back(teller());
@@ -85,7 +82,7 @@ public:
                     customerRecords[currentCustomer.getID()-1].leavingTime = currentCustomer.getLeavingTime();
                     customerRecords[currentCustomer.getID()-1].tellerID = currentTellerIndex+1;
                    
-
+ 
                 }
                 else
                 {

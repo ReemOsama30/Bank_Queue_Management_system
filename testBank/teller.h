@@ -43,7 +43,6 @@ public:
     }
     void serveCustomer(customer& customer, int tellerID) {
         isavailable = false;
-        cout << "The customer " << customer.getID() << " is served by teller " << tellerID + 1 << " " << endl;
         customer.setLeavingTime(customer.getArrivalTime() + customer.getServiceTime()+customer.getWaitingTime());
         
         numberOfServedCustomer += 1;
@@ -53,13 +52,7 @@ public:
     }
 
 
-    void printReport(customer& customer, ofstream& outputFile) {
-             // Calculate waiting time
-        int currentTime = customer.getServiceTime();
-
-        outputFile << "Serving customer " << customer.getID() << " at time " << currentTime << ", Waiting Time: " << customer.getWaitingTime() << endl;
-    }
-
+   
    
 };
 
